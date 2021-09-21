@@ -1,2 +1,2 @@
-# tempchallenge1.py
+# tempchallenge1.repo
 Python Temp Challenge
